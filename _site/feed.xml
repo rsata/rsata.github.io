@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Reid Sata</title>
+		<description>Some writing among other things.</description>
+		<link>http://example.org</link>
+		<atom:link href="http://example.org/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Dinah Dodds Endowment Fund Grant Request</title>
+				<description>&lt;p&gt;This is the grant request submitted to the Dinah Dodds Endowment Fund. It received the maximum grant amount of $2,000, and the project is currently underway. The money is going to fund research on sustainable oyster farming and mangrove protection in Sokone, Senegal. The funds will also help develop these practices in the area, providing equipment to increase sustainable methods of oyster farming.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
+				<link>http://example.org/posts/DD/</link>
+				<guid isPermaLink="true">http://example.org/posts/DD/</guid>
+			</item>
+		
+			<item>
+				<title>Global Research and Advocacy Group</title>
+				<description>&lt;p&gt;Global Research and Advocacy Group (GRAG) is an NGO based in Dakar, Senegal that conducts quality research on various issues including reproductive health, family planning, education, and gender related norms. GRAG’s team comes from all around the world, and works to improve program initiatives.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-did&quot;&gt;Things I did&lt;/h2&gt;
+
+&lt;p&gt;Translate research and analysis from French to English and vice versa.&lt;/p&gt;
+
+&lt;p&gt;Prepared presentations for the government of Ghana and Burkina Faso in both French and English.&lt;/p&gt;
+
+&lt;p&gt;Helped write and edit grant proposals to several funds, including the Helwett Foundation, and MEASURE Small Grant.&lt;/p&gt;
+
+&lt;p&gt;Helped prepare materials for conferences.&lt;/p&gt;
+
+&lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
+
+&lt;p&gt;January 2015 - April 2015&lt;/p&gt;
+</description>
+				<pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+				<link>http://example.org/posts/GRAG/</link>
+				<guid isPermaLink="true">http://example.org/posts/GRAG/</guid>
+			</item>
+		
+			<item>
+				<title>Rubicon International</title>
+				<description>&lt;p&gt;Rubicon is an education consulting company based in Portland, OR. They write curriculum mapping software to help teachers and administrators collaborate, share curriculum, and keep track of everchanging standards.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-did&quot;&gt;Things I did&lt;/h2&gt;
+
+&lt;p&gt;Researched and developed content marketing strategy to help increase traffic to the professional development site. The strategy helped double page views, and is being used to help chnage the image of the company.&lt;/p&gt;
+
+&lt;p&gt;Prepared and gave a marketing demo to senior members of the company, simulating an on-site demonstration of the company software.&lt;/p&gt;
+
+&lt;p&gt;Worked on the deployment team to help prepare and maintain client sites. This included growing and maintaining a database of over 1,200 sets of national, state, and international education standards.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+				<link>http://example.org/posts/Rubicon/</link>
+				<guid isPermaLink="true">http://example.org/posts/Rubicon/</guid>
+			</item>
+		
+			<item>
+				<title>Incubator and Launch Seed Fund</title>
+				<description>&lt;p&gt;I am currently part of Lewis &amp;amp; Clark’s Incubator and Launch Seed Fund. I am working on a project called PlanIt, helping people explore their surroundings, and organize their days. My team was one of six teams accepted into the incubator, and we received a secondary round of funds to further advance our idea.&lt;/p&gt;
+
+&lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
+
+&lt;p&gt;January 2014 - Present&lt;/p&gt;
+</description>
+				<pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+				<link>http://example.org/posts/ILSeed/</link>
+				<guid isPermaLink="true">http://example.org/posts/ILSeed/</guid>
+			</item>
+		
+			<item>
+				<title>The Effect of College Tuition on High School Graduation: The Impact of College Tuition Changes from 2005 to 2010</title>
+				<description>&lt;p&gt;A paper written for a political science research methods class using quantitative methods, and examining the relationship between college tuition and high school graduation.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 13 Dec 2013 00:00:00 +0000</pubDate>
+				<link>http://example.org/posts/pols201/</link>
+				<guid isPermaLink="true">http://example.org/posts/pols201/</guid>
+			</item>
+		
+			<item>
+				<title>Tensoft, Inc.</title>
+				<description>&lt;p&gt;Tensoft is a semiconductor management and revenue recognition software company based in San Jose, CA. I worked there as a digital marketing intern, helping manage social media, maintain and update the website, grow the blog, create content, and edit videos.&lt;/p&gt;
+
+&lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
+
+&lt;p&gt;May 2013 - May 2014&lt;/p&gt;
+</description>
+				<pubDate>Wed, 15 May 2013 00:00:00 +0000</pubDate>
+				<link>http://example.org/posts/Tensoft/</link>
+				<guid isPermaLink="true">http://example.org/posts/Tensoft/</guid>
+			</item>
+		
+			<item>
+				<title>Retention at Lewis & Clark College</title>
+				<description>&lt;p&gt;This is a paper written for a public policy class. Many students come to Lewis &amp;amp; Clark for the appeal of a small, tight knit community. However, many students are frustrated by the lack of engagement on campus. This policy brief focuses on how the administration can increase student engagement to help address the problem.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 10 May 2013 00:00:00 +0000</pubDate>
+				<link>http://example.org/posts/PolicyBrief/</link>
+				<guid isPermaLink="true">http://example.org/posts/PolicyBrief/</guid>
+			</item>
+		
+			<item>
+				<title>Op Ed Adderall</title>
+				<description>&lt;p&gt;More and more students and employees are using adderall and other drugs to boost grades and productivity.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 20 Feb 2013 00:00:00 +0000</pubDate>
+				<link>http://example.org/posts/Op-Ed/</link>
+				<guid isPermaLink="true">http://example.org/posts/Op-Ed/</guid>
+			</item>
+		
+	</channel>
+</rss>

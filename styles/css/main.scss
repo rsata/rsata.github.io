@@ -1,0 +1,205 @@
+---
+
+---
+
+// Bootstrap
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/normalize";
+@import "bootstrap/scaffolding";
+@import "bootstrap/type";
+@import "bootstrap/grid";
+@import "bootstrap/navs";
+@import "bootstrap/jumbotron";
+@import "bootstrap/utilities";
+@import "bootstrap/responsive-utilities";
+
+// Icons
+@import "fontawesome/variables";
+@import "fontawesome/mixins";
+@import "fontawesome/path";
+@import "fontawesome/core";
+@import "fontawesome/larger";
+@import "fontawesome/fixed-width";
+@import "fontawesome/stacked";
+@import "fontawesome/icons";
+
+// Imports
+@import url(http://fonts.googleapis.com/css?family=Comfortaa|Nunito|Open+Sans:400,300);
+@import 'colors';
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+
+/* =========================== */
+
+
+
+body {
+	background-color: $body-primary;
+}
+
+a {
+	color: $link-primary;
+}
+
+a:hover {
+	color: $link-hover;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+.nav {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+	border-bottom: solid $nav-line 2px;
+	li {
+		&.active a {
+			background-color: $nav-active;	
+			&:hover {
+				background-color: $nav-active;
+			}	
+		}
+		a {
+			border-radius: 0;
+			color: $nav-primary;
+			background-color: $nav-background;
+
+			&:hover {
+				color: $nav-hover-text;
+				background-color: $nav-hover;			
+			}
+		}
+	}
+}
+
+.main-body p {
+	color: $p-primary;
+	font-size: 1.1em;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: $header-primary;
+  font-family: 'Nunito', sans-serif;
+  & a {
+    font-family: 'Nunito', sans-serif;
+  }
+}
+
+p.date {
+	font-style: italic;
+	margin-top: -7px;
+	font-size: em;
+}
+
+.buffer {
+	margin-top: 30px;
+}
+
+iframe, object, embed {
+	max-width: 100%;
+  border: solid 7px $maps-primary
+}
+
+img {
+  width:200px;
+  height: 200px;
+  border-radius: 100%;
+  border: solid 7px $maps-primary
+}
+
+.red {
+  color: $link-color;
+}
+
+img.right {
+  float:right;
+}
+
+/* =========================== 
+
+HEADER
+
+=========================== */
+
+
+
+.header {
+	h1 {
+		color: $banner-primary;
+    font-family: 'Comfortaa', serif;
+	}
+	h3 {
+		color: $banner-secondary;
+    font-family: 'Comfortaa', serif;
+	}
+}
+
+.jumbotron {
+	background-color: $banner-background;
+}
+
+ul.icons li a .fa-stack i {
+  background-color: $banner-background;
+  color: #fff;
+  border-radius: 100%;
+  &:hover {
+    color: #fff;
+    background-color: $link-color;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+  }
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+
+/* =========================== 
+
+FOOTER
+
+=========================== */
+
+.wrapper {
+  min-height: 100%;
+  margin: 0 auto -50px; /* the bottom margin is the negative value of the footer's height */
+}
+footer, .push {
+  height: 50px; /* '.push' must be the same height as 'footer' */
+  color: $p-primary;
+}
+
+.footer {
+	margin-top: 20px;
+}
+
