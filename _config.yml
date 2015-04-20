@@ -4,7 +4,7 @@ description: Some writing among other things.
 
 permalink: /posts/:title/
 paginate: 10
-highlighter: true
+highlighter: pygments
 
 sass:
   sass_dir: styles/_sass
