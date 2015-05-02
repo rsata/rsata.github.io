@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Work
+title: Resume
 ---
 
 # [Download Resume](/images/ReidSataResume-2015.pdf/)
