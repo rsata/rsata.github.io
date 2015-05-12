@@ -16,3 +16,7 @@ Walking down the street, you talk to people and say hi to all the familiar faces
 The second is how well the Senegalese separate money from happiness.  In a country where the majority lives with about $2 a day, I met so many more kind, relaxed, and genuinely happy people than anywhere else in the world.  And it's not just a happiness you feel when talking to people, its something you feel walking down the street.  It's a general feeling in the air where people are content with what they have, and happy to be alive.  Things move slowly and once you adjust to the general noise and chaos of the city, the vibe is actually very relaxed.  People don't worry about money and wealth, and I think as a result, are happier.
 
 I think this second aspect about separating happiness from wealth stems from the first.  People's happiness doesn't come from the things they own, or even the things they do.  Instead it comes from those around them - from their community, their friends and their family.  And so after a couple weeks back in a country where people keep to themselves and walk down the streets with two headphones in staring at their feet, these are the two things I'll miss most about Senegal.
+
+--
+
+I decided not to import my senegal blog over to this one.  If you're interested, the whole things over at [rsata.blogspot.com](http://reidsata.blogspot.com/) 
