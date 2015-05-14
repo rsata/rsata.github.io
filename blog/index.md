@@ -8,11 +8,11 @@ title: Blog
 <div>
 {% for post in site.tags.blog %}
   {% if post.external-url %}
-    <h3>
+    <h2>
       <a href="{{ post.external-url }}">{{ post.title }}</a> 
-    </h3>
+    </h2>
   {% else %}
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p class="blog-date">{{ post.date | date_to_string }}</p>
   {% endif %}
 <p>{{ post.content | strip_html | truncatewords:50 }}</p>

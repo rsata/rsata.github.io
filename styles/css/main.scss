@@ -25,8 +25,8 @@
 @import "fontawesome/icons";
 
 // Imports
-@import url(http://fonts.googleapis.com/css?family=Comfortaa|Nunito|Open+Sans:400,300);
 @import 'colors';
+@import 'fonts';
 
 
 *,
@@ -71,7 +71,7 @@ a:hover {
 }
 
 .nav {
-  font-family: 'Open Sans', sans-serif;
+  font-family: $font-nav-primary;
   font-weight: 400;
 	border-bottom: solid $nav-line 2px;
 	li {
@@ -94,25 +94,24 @@ a:hover {
 	}
 }
 
-.main-body p {
+p {
 	color: $p-primary;
-	font-size: 1.1em;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 1.1em;
+  font-family: $font-body-primary;
   font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	color: $header-primary;
-  font-family: 'Nunito', sans-serif;
+  font-family: $font-header-primary;
   & a {
-    font-family: 'Nunito', sans-serif;
+    font-family: $font-header-primary;
   }
 }
 
 p.date {
 	font-style: italic;
 	margin-top: -7px;
-	font-size: em;
 }
 
 .buffer {
@@ -150,11 +149,11 @@ HEADER
 .header {
 	h1 {
 		color: $banner-primary;
-    font-family: 'Comfortaa', serif;
+    font-family: $font-banner-primary;
 	}
 	h3 {
 		color: $banner-secondary;
-    font-family: 'Comfortaa', serif;
+    font-family: $font-banner-secondary;
 	}
 }
 
