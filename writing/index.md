@@ -5,7 +5,7 @@ title: Writing
 
 <div>
 
-{% for post in site.tags.writing %}
+{% for post in site.categories.writing %}
 
 	{% if post.external-url %}
 		<h2>

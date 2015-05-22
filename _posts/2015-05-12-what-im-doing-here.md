@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "What I'm doing here"
+title: "What I'm doing here (in Paris for the summer)"
 date: 2015-05-12
-tags: blog
+categories: blog
 ---
 
 I started my job here about 3 weeks ago now at a small fintech company called Tagattitude.  It's great, and what the company does is very interesting.

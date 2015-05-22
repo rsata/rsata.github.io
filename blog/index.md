@@ -6,7 +6,7 @@ title: Blog
 #### A place where I'll write every now and then about projects, travels and other things that cross my mind.
 
 <div>
-{% for post in site.tags.blog %}
+{% for post in site.categories.blog %}
   {% if post.external-url %}
     <h2>
       <a href="{{ post.external-url }}">{{ post.title }}</a> 

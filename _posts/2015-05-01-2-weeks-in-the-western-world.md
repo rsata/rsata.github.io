@@ -2,7 +2,7 @@
 layout: post
 title: "2 Weeks Back in the Western World"
 date: 2015-05-01
-tags: blog
+categories: blog
 ---
 
 My semester in Dakar ended about two weeks ago, and now I'm in Paris until the end of July.  Being back has given me some time to think about my time in Senegal and the most important things I'll take away from my three and a half months there.

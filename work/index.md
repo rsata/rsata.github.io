@@ -5,7 +5,7 @@ title: Work
 
 <div>
 
-{% for post in site.tags.work %}
+{% for post in site.categories.work %}
 
 	{% if post.external-url %}
 		<h2>
