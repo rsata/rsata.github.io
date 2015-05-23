@@ -13,7 +13,7 @@ Besides that, I spend my time traveling, drinking too much coffee, dreaming, gol
 
 ## Say Hi
 
-#### <a href="#">rsata@lclark.edu</a>
+<h4><div class="red">rsata@lclark.edu</div></h4>
 
 <ul class="icons list-inline">
   <li><a href="https://www.facebook.com/4tadayuki/">
