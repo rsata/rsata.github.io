@@ -13,4 +13,4 @@ Another cool thing about all these European cities is the amount of ridiculously
 
 Elephant in the room.  Coffeeshops.  Yes, I went to one.  Duh.  But honestly, it wasn't all that exciting or anything.  Weed in Amsterdam is more for the older generation and tourists.  A few years ago they experimented with not allowing foreigners to buy weed at all.  In some cities I'm pretty sure coffeeshops can only sell to residents.  However, after they realized the catastrophic effect it would have on tourism, you can pretty much buy weed anywhere in the Netherlands.
 
-Anyways, my weekend in Amsterdam was awesome and I want to go back.  Maybe even live there.
+Anyways, my weekend in Amsterdam was awesome and I want to go back.
