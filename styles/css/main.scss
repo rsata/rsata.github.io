@@ -57,6 +57,8 @@ a:hover {
 
 body {
 	background-color: $body-primary;
+  font-family: $font-body-primary;
+  font-weight: 300;
 }
 
 a {
@@ -97,8 +99,6 @@ a:hover {
 p {
 	color: $p-primary;
   font-size: 1.1em;
-  font-family: $font-body-primary;
-  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
