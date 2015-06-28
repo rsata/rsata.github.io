@@ -2,7 +2,7 @@ name: Reid Sata
 url: http://example.org
 description: Some writing amongst other things.
 
-permalink: /posts/:title/
+permalink: :categories/posts/:title/
 paginate: 10
 highlighter: pygments
 
