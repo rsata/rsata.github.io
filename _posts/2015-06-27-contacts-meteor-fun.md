@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playing Around in Meteor.js"
-date: 2015-06-22
+date: 2015-06-27
 categories: blog
 ---
 
