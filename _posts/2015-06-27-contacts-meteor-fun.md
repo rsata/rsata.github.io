@@ -16,4 +16,4 @@ With one year left of college, I've started reaching out to various connections 
 And so here's the contacts manager I made.  I might add a couple features in my free time/fix the issues with it, but for now, it's simple and it works.
 
 Github: [https://github.com/rsata/contacts-manager](https://github.com/rsata/contacts-manager)
-Demo: [http://simple-contact-manager.meteor.com/](http://simple-contact-manager.meteor.com/)
+Demo: [http://simple-contacts-manager.meteor.com/](http://simple-contacts-manager.meteor.com/)
