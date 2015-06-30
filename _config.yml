@@ -1,6 +1,6 @@
 name: Reid Sata
 url: http://example.org
-description: Some writing amongst other things.
+description: Some writing among other things.
 
 permalink: :categories/posts/:title/
 paginate: 10

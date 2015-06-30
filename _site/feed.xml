@@ -7,6 +7,49 @@
 		<atom:link href="http://example.org/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Japanese Chefs in Paris</title>
+				<description>&lt;p&gt;&lt;img src=&quot;/images/lesotlylaisse.jpg&quot; alt=&quot;Le Sot L&#39;y Laisse Fish&quot; class=&quot;right inline-image&quot; /&gt;
+A couple weeks ago I had the chance to eat at a little restaurant in Paris call Le Sot L’y Laisse.  We later learned on the way home that Le Sot L’y Laisse is a small piece of dark meat located on the back, and considered the best part of the chicken.  Cool.  Anyways, the restaurant serves French food, and is run by a Japanese chef.  I had fois gras and fish.  Each was perfectly prepared, and aranged on the plate like a piece of art.  Oh and also the absolute best tasting food I have ever eaten.  Both dishes were French, but definitely had some Japanese influence.&lt;/p&gt;
+
+&lt;p&gt;About a week after that, I got to go to this fancy shmancy place called OKA.  It’s a tiny little place that fits about 20 people jam-packed.  The cool thing here is that you have no idea what the chef is cooking that day.  They only write the list of ingredients on a board for alergies, and propose a wine pairing with whatever the chef prepared.&lt;/p&gt;
+
+&lt;p&gt;And so, one week after eating at the best place I’ve ever eaten at ever, I ate at another place that was even better than that one.  We had 6 courses that included included everything from ice cream in the entree, to perfectly prepared fish, to beef that melts in your mouth, to the&lt;/p&gt;
+</description>
+				<pubDate>Thu, 30 Jul 2015 00:00:00 +0200</pubDate>
+				<link>http://example.org/blog/posts/2015-06-28-japenese-influence-in-parisian-food/</link>
+				<guid isPermaLink="true">http://example.org/blog/posts/2015-06-28-japenese-influence-in-parisian-food/</guid>
+			</item>
+		
+			<item>
+				<title>2015 07 02 Taxi Protest</title>
+				<description>
+</description>
+				<pubDate>Sun, 28 Jun 2015 17:53:08 +0200</pubDate>
+				<link>http://example.org/posts/2015-07-02-taxi-protest/</link>
+				<guid isPermaLink="true">http://example.org/posts/2015-07-02-taxi-protest/</guid>
+			</item>
+		
+			<item>
+				<title>Playing Around in Meteor.js</title>
+				<description>&lt;p&gt;Last summer, I taught myself a little HTML and CSS.  Over the past year, one hour of procrastination lead to another, I learned a little JS, a few libraries and frameworks, and now I can build basic web apps.  I’ve never taken a formal programming class, so I’m sure my code is full of things that would make any experienced developer cringe.  But it works, and so they tell me, that’s all that matters.&lt;/p&gt;
+
+&lt;p&gt;Over the past year, the most difficult part for me has been learning backend development.  Something just doesn’t quite click for me and I much prefer spending time on the frontend thinking about look, feel, and UX.  So I was pretty stoked when I found Meteor a couple months ago.  No more hours digging through StackOverflow and blog tutorials figuring out how to set up a database, create secure logins, connect oauth, bla bla bla&lt;/p&gt;
+
+&lt;p&gt;So anyways, the past couple weekends I’ve been throwing together a simple contacts app.  Yes, it’s been done before, but I needed a way to manage some contacts so I figured I’d learn a little and make one myself.&lt;/p&gt;
+
+&lt;p&gt;With one year left of college, I’ve started reaching out to various connections and people whose work I admire and find interesting.  I guess adults call this networking.  I keep the list of people to contact in a note on my phone, but as the list gets longer, it’s more difficult to keep track of where everybody lives, what their emails are, etc.  I wanted a way to make sure that when I get back to the US, I know who I need to contact.&lt;/p&gt;
+
+&lt;p&gt;And so here’s the contacts manager I made.  I might add a couple features in my free time/fix the issues with it, but for now, it’s simple and it works.&lt;/p&gt;
+
+&lt;p&gt;Github: &lt;a href=&quot;https://github.com/rsata/contacts-manager&quot;&gt;https://github.com/rsata/contacts-manager&lt;/a&gt;
+Demo: &lt;a href=&quot;http://simple-contact-manager.meteor.com/&quot;&gt;http://simple-contact-manager.meteor.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Sat, 27 Jun 2015 00:00:00 +0200</pubDate>
+				<link>http://example.org/blog/posts/contacts-meteor-fun/</link>
+				<guid isPermaLink="true">http://example.org/blog/posts/contacts-meteor-fun/</guid>
+			</item>
+		
+			<item>
 				<title>Mobile Money Potential</title>
 				<description>&lt;p&gt;Centralized payment processing companies like Visa or MasterCard exist so that we can open accounts with whatever bank we want, but still pay on the same machines.  If they didn’t, each bank would need its own payment processing system and you’d only be able to pay at terminals that work with your specific bank.  Think paying with Amex is difficult now?  The whole thing would be a gigantic mess.&lt;/p&gt;
 
@@ -150,45 +193,6 @@
 				<pubDate>Thu, 15 Jan 2015 00:00:00 +0100</pubDate>
 				<link>http://example.org/work/posts/GRAG/</link>
 				<guid isPermaLink="true">http://example.org/work/posts/GRAG/</guid>
-			</item>
-		
-			<item>
-				<title>Rubicon International</title>
-				<description>&lt;p&gt;Rubicon is an education consulting company based in Portland, OR. They write curriculum mapping software to help teachers and administrators collaborate, share curriculum, and keep track of everchanging standards.&lt;/p&gt;
-
-&lt;h2 id=&quot;things-i-did&quot;&gt;Things I did&lt;/h2&gt;
-
-&lt;p&gt;Researched and developed content marketing strategy to help increase traffic to the professional development site. The strategy helped double page views, and is being used to help chnage the image of the company.&lt;/p&gt;
-
-&lt;p&gt;Prepared and gave a marketing demo to senior members of the company, simulating an on-site demonstration of the company software.&lt;/p&gt;
-
-&lt;p&gt;Worked on the deployment team to help prepare and maintain client sites. This included growing and maintaining a database of over 1,200 sets of national, state, and international education standards.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 15 May 2014 00:00:00 +0200</pubDate>
-				<link>http://example.org/work/posts/Rubicon/</link>
-				<guid isPermaLink="true">http://example.org/work/posts/Rubicon/</guid>
-			</item>
-		
-			<item>
-				<title>Incubator and Launch Seed Fund</title>
-				<description>&lt;p&gt;I am currently part of Lewis &amp;amp; Clark’s Incubator and Launch Seed Fund. I am working on a project called PlanIt, helping people explore their surroundings, and organize their days. My team was one of six teams accepted into the incubator, and we received a secondary round of funds to further advance our idea.&lt;/p&gt;
-
-&lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
-
-&lt;p&gt;January 2014 - Present&lt;/p&gt;
-</description>
-				<pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
-				<link>http://example.org/work/posts/ILSeed/</link>
-				<guid isPermaLink="true">http://example.org/work/posts/ILSeed/</guid>
-			</item>
-		
-			<item>
-				<title>The Effect of College Tuition on High School Graduation: The Impact of College Tuition Changes from 2005 to 2010</title>
-				<description>&lt;p&gt;A paper written for a political science research methods class using quantitative methods, and examining the relationship between college tuition and high school graduation.&lt;/p&gt;
-</description>
-				<pubDate>Fri, 13 Dec 2013 00:00:00 +0100</pubDate>
-				<link>http://example.org/writing/posts/pols201/</link>
-				<guid isPermaLink="true">http://example.org/writing/posts/pols201/</guid>
 			</item>
 		
 	</channel>

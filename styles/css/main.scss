@@ -123,11 +123,15 @@ iframe, object, embed {
   border: solid 7px $maps-primary
 }
 
-img {
+img.round {
   width:200px;
   height: 200px;
   border-radius: 100%;
   border: solid 7px $maps-primary
+}
+
+img.inline-image {
+  width: 200px;
 }
 
 .red {
