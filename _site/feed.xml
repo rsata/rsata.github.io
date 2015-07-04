@@ -2,31 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Reid Sata</title>
-		<description>Some writing amongst other things.</description>
+		<description>Some writing among other things.</description>
 		<link>http://example.org</link>
 		<atom:link href="http://example.org/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Japanese Chefs in Paris</title>
-				<description>&lt;p&gt;&lt;img src=&quot;/images/lesotlylaisse.jpg&quot; alt=&quot;Le Sot L&#39;y Laisse Fish&quot; class=&quot;right inline-image&quot; /&gt;
-A couple weeks ago I had the chance to eat at a little restaurant in Paris call Le Sot L’y Laisse.  We later learned on the way home that Le Sot L’y Laisse is a small piece of dark meat located on the back, and considered the best part of the chicken.  Cool.  Anyways, the restaurant serves French food, and is run by a Japanese chef.  I had fois gras and fish.  Each was perfectly prepared, and aranged on the plate like a piece of art.  Oh and also the absolute best tasting food I have ever eaten.  Both dishes were French, but definitely had some Japanese influence.&lt;/p&gt;
+				<description>&lt;p&gt;A few weeks ago I had the chance to eat at a little restaurant in Paris call Le Sot L’y Laisse.  We later learned on the way home that Le Sot L’y Laisse is a small piece of dark meat located on the back, and considered the best part of the chicken.  Cool.  Anyways, the restaurant serves French food, and is run by a Japanese chef.  I had fois gras and fish.  Each was perfectly prepared, and aranged on the plate like a piece of art.  Oh and also the absolute best tasting food I have ever eaten.  Both dishes were French, but as you might expect, had a lot of Japanese influence.  This was the second time I’ve gone to a French restaurant here run by a Japanese chef.  I thought it was pretty interesting because it’s not often you see Japanese chefs cooking non-japanese food in Paris.  Or so I thought.&lt;/p&gt;
 
-&lt;p&gt;About a week after that, I got to go to this fancy shmancy place called OKA.  It’s a tiny little place that fits about 20 people jam-packed.  The cool thing here is that you have no idea what the chef is cooking that day.  They only write the list of ingredients on a board for alergies, and propose a wine pairing with whatever the chef prepared.&lt;/p&gt;
+&lt;p&gt;About a week after that, I got to go to this fancy shmancy place called OKA.  It’s a little place that fits about 20 people jam-packed.  The cool thing here is that you have no idea what the chef is cooking that day.  When you enter, the only clue you get is the list of ingredients (for alergies).&lt;/p&gt;
 
-&lt;p&gt;And so, one week after eating at the best place I’ve ever eaten at ever, I ate at another place that was even better than that one.  We had 6 courses that included included everything from ice cream in the entree, to perfectly prepared fish, to beef that melts in your mouth, to the&lt;/p&gt;
+&lt;p&gt;And so, one week after eating at the best place I’ve ever eaten at ever, I ate at another place that is now the best place I’ve ever eaten at ever.  We had 6 courses that included included everything from ice cream in the entree, to perfectly prepared fish, to beef that melts in your mouth, to things I don’t even know how to describe. The point is it was all delicious, and tastier than anything you could ever imagine.&lt;/p&gt;
+
+&lt;p&gt;At this place as well, the chef was French, but the dishes definitely had some japanese influence in the ingredients and presentation.  I looked into it a little further and it turns out Japanese chefs have had a pretty strong presence in the French cooking scene for the last decade or so, serving as apprentices at many of the popular, hip, modern restaurants around Paris.  Now, they’re opening their own places, taking traditional French dishes and adding their own flare.&lt;/p&gt;
+
+&lt;p&gt;Here are a few articles and pictures:
+&lt;br /&gt;&lt;a href=&quot;http://tmagazine.blogs.nytimes.com/2014/12/12/japanese-french-cuisine-nakatani-restaurant-pages/?ref=tmagazine&quot;&gt;NYT Blog&lt;/a&gt;
+&lt;br /&gt;&lt;a href=&quot;http://www.travelandleisure.com/articles/japanese-chefs-heat-up-the-paris-restaurant-scene&quot;&gt;Travel + Leisure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lesotlylaisse.jpg&quot; alt=&quot;Le Sot L&#39;y Laisse Fish&quot; class=&quot;food&quot; /&gt;
+&lt;img src=&quot;/images/oka-entree.jpg&quot; alt=&quot;OKA entree&quot; class=&quot;food&quot; /&gt;
+&lt;img src=&quot;/images/oka-fish.jpg&quot; alt=&quot;OKA fish&quot; class=&quot;food&quot; /&gt;
+&lt;img src=&quot;/images/oka-dessert.jpg&quot; alt=&quot;OKA dessert&quot; class=&quot;food&quot; /&gt;&lt;/p&gt;
 </description>
-				<pubDate>Thu, 30 Jul 2015 00:00:00 +0200</pubDate>
-				<link>http://example.org/blog/posts/2015-06-28-japenese-influence-in-parisian-food/</link>
-				<guid isPermaLink="true">http://example.org/blog/posts/2015-06-28-japenese-influence-in-parisian-food/</guid>
-			</item>
-		
-			<item>
-				<title>2015 07 02 Taxi Protest</title>
-				<description>
-</description>
-				<pubDate>Sun, 28 Jun 2015 17:53:08 +0200</pubDate>
-				<link>http://example.org/posts/2015-07-02-taxi-protest/</link>
-				<guid isPermaLink="true">http://example.org/posts/2015-07-02-taxi-protest/</guid>
+				<pubDate>Fri, 03 Jul 2015 00:00:00 +0200</pubDate>
+				<link>http://example.org/blog/posts/japenese-influence-in-parisian-food/</link>
+				<guid isPermaLink="true">http://example.org/blog/posts/japenese-influence-in-parisian-food/</guid>
 			</item>
 		
 			<item>
@@ -42,7 +43,7 @@ A couple weeks ago I had the chance to eat at a little restaurant in Paris call 
 &lt;p&gt;And so here’s the contacts manager I made.  I might add a couple features in my free time/fix the issues with it, but for now, it’s simple and it works.&lt;/p&gt;
 
 &lt;p&gt;Github: &lt;a href=&quot;https://github.com/rsata/contacts-manager&quot;&gt;https://github.com/rsata/contacts-manager&lt;/a&gt;
-Demo: &lt;a href=&quot;http://simple-contact-manager.meteor.com/&quot;&gt;http://simple-contact-manager.meteor.com/&lt;/a&gt;&lt;/p&gt;
+Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http://simple-contacts-manager.meteor.com/&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Sat, 27 Jun 2015 00:00:00 +0200</pubDate>
 				<link>http://example.org/blog/posts/contacts-meteor-fun/</link>
@@ -193,6 +194,23 @@ Demo: &lt;a href=&quot;http://simple-contact-manager.meteor.com/&quot;&gt;http:/
 				<pubDate>Thu, 15 Jan 2015 00:00:00 +0100</pubDate>
 				<link>http://example.org/work/posts/GRAG/</link>
 				<guid isPermaLink="true">http://example.org/work/posts/GRAG/</guid>
+			</item>
+		
+			<item>
+				<title>Rubicon International</title>
+				<description>&lt;p&gt;Rubicon is an education consulting company based in Portland, OR. They write curriculum mapping software to help teachers and administrators collaborate, share curriculum, and keep track of everchanging standards.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-did&quot;&gt;Things I did&lt;/h2&gt;
+
+&lt;p&gt;Researched and developed content marketing strategy to help increase traffic to the professional development site. The strategy helped double page views, and is being used to help chnage the image of the company.&lt;/p&gt;
+
+&lt;p&gt;Prepared and gave a marketing demo to senior members of the company, simulating an on-site demonstration of the company software.&lt;/p&gt;
+
+&lt;p&gt;Worked on the deployment team to help prepare and maintain client sites. This included growing and maintaining a database of over 1,200 sets of national, state, and international education standards.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 15 May 2014 00:00:00 +0200</pubDate>
+				<link>http://example.org/work/posts/Rubicon/</link>
+				<guid isPermaLink="true">http://example.org/work/posts/Rubicon/</guid>
 			</item>
 		
 	</channel>
