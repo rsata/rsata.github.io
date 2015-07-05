@@ -7,6 +7,23 @@
 		<atom:link href="http://example.org/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Tagattitude</title>
+				<description>&lt;p&gt;Tagattitude is French a fintech company specializing in mobile financial service platforms. I was a marketing intern, mainly focused on developing content, maintaining the website, and doing market research.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-did&quot;&gt;Things I did&lt;/h2&gt;
+
+&lt;p&gt;bla bla bla&lt;/p&gt;
+
+&lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
+
+&lt;p&gt;January 2015 - April 2015&lt;/p&gt;
+</description>
+				<pubDate>Sun, 05 Jul 2015 00:00:00 +0200</pubDate>
+				<link>http://example.org/work/posts/2015-07-05-tagattitude/</link>
+				<guid isPermaLink="true">http://example.org/work/posts/2015-07-05-tagattitude/</guid>
+			</item>
+		
+			<item>
 				<title>Japanese Chefs in Paris</title>
 				<description>&lt;p&gt;A few weeks ago I had the chance to eat at a little restaurant in Paris call Le Sot L’y Laisse.  We later learned on the way home that Le Sot L’y Laisse is a small piece of dark meat located on the back, and considered the best part of the chicken.  Cool.  Anyways, the restaurant serves French food, and is run by a Japanese chef.  I had fois gras and fish.  Each was perfectly prepared, and aranged on the plate like a piece of art.  Oh and also the absolute best tasting food I have ever eaten.  Both dishes were French, but as you might expect, had a lot of Japanese influence.  This was the second time I’ve gone to a French restaurant here run by a Japanese chef.  I thought it was pretty interesting because it’s not often you see Japanese chefs cooking non-japanese food in Paris.  Or so I thought.&lt;/p&gt;
 
@@ -194,23 +211,6 @@ Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http:
 				<pubDate>Thu, 15 Jan 2015 00:00:00 +0100</pubDate>
 				<link>http://example.org/work/posts/GRAG/</link>
 				<guid isPermaLink="true">http://example.org/work/posts/GRAG/</guid>
-			</item>
-		
-			<item>
-				<title>Rubicon International</title>
-				<description>&lt;p&gt;Rubicon is an education consulting company based in Portland, OR. They write curriculum mapping software to help teachers and administrators collaborate, share curriculum, and keep track of everchanging standards.&lt;/p&gt;
-
-&lt;h2 id=&quot;things-i-did&quot;&gt;Things I did&lt;/h2&gt;
-
-&lt;p&gt;Researched and developed content marketing strategy to help increase traffic to the professional development site. The strategy helped double page views, and is being used to help chnage the image of the company.&lt;/p&gt;
-
-&lt;p&gt;Prepared and gave a marketing demo to senior members of the company, simulating an on-site demonstration of the company software.&lt;/p&gt;
-
-&lt;p&gt;Worked on the deployment team to help prepare and maintain client sites. This included growing and maintaining a database of over 1,200 sets of national, state, and international education standards.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 15 May 2014 00:00:00 +0200</pubDate>
-				<link>http://example.org/work/posts/Rubicon/</link>
-				<guid isPermaLink="true">http://example.org/work/posts/Rubicon/</guid>
 			</item>
 		
 	</channel>
