@@ -7,6 +7,40 @@
 		<atom:link href="http://example.org/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>A Long Weekend in the Middle of Nowhere</title>
+				<description>&lt;p&gt;Last weekend it was Bastille day in France. More or less the equivalent to 4th of July for us, but with more wine and less beer. Bastille Day represents the symbolic beginning of the French Revolution, when an angry mob raided the fortress in 1789 for gunpowder, weapons, and ammunition. In the next 15 years, France got a number of things, including but not limited to their national anthem - “la Marseillaise” - the guillotine, a constitution, and the Reign of Terror.&lt;/p&gt;
+
+&lt;p&gt;Anyways, for this marvelous holiday I did what most Parisians do in the summer, and got the hell out of Paris. My friend’s family has a country house about an hour and a half away, so we spent a long weekend there lounging next to the pool.&lt;/p&gt;
+
+&lt;p&gt;In France, the minimum number of paid vacations your work can give you is at a quite comfortable five. In addition, if you work more than 35 hours a week (say, I don’t know, a 40 hour week?), you get an optional extra two weeks. Of course, there are workaholics in every country who would rather be at work than at the beach. However, of those two weeks, five (I think…) are not optional.&lt;/p&gt;
+
+&lt;p&gt;By the end of those four days, I needed to get back and work on projects or SOMETHING. But my friends didn’t. And I think that’s a very important difference between a lot of the people I’ve met here, and many stressed out workaholics in the US. Here, people separate work and life. I’ve heard many say that in the US, people live to work, while in France, they work to live. And it’s totally 100% accurate. While we do give the French a lot of shit for their wimpy 35 hour work week, month long vacations, high taxes, and unfavorable business climate, I think there’s something to be said about a high quality of life and general happiness (even though those things mentioned above are still issues). Here, people get what really matters, and what makes them happy. There’s no impossible quest to satisfy a bottomless bucket of ambition, nor any question about where work ends and where life begins. Those people all moved to the US.&lt;/p&gt;
+
+&lt;p&gt;With school work and other projects and things (like finding a job…… ugh.), it’s easy to fall into the trap of never being able to take a breath. There’s always something to do, and it’s always urgent. But being here has made me realize it’s really not urgent. So stop, smell the roses, and enjoy your fucking life.&lt;/p&gt;
+</description>
+				<pubDate>Sat, 18 Jul 2015 00:00:00 +0200</pubDate>
+				<link>http://example.org/blog/posts/french-countryside/</link>
+				<guid isPermaLink="true">http://example.org/blog/posts/french-countryside/</guid>
+			</item>
+		
+			<item>
+				<title>Tagattitude</title>
+				<description>&lt;p&gt;Tagattitude is French a fintech company specializing in mobile financial service platforms. I was a marketing intern, mainly focused on developing content, maintaining the website, and doing market research.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-did&quot;&gt;Things I did&lt;/h2&gt;
+
+&lt;p&gt;bla bla bla&lt;/p&gt;
+
+&lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
+
+&lt;p&gt;January 2015 - April 2015&lt;/p&gt;
+</description>
+				<pubDate>Sun, 05 Jul 2015 00:00:00 +0200</pubDate>
+				<link>http://example.org/work/posts/2015-07-05-tagattitude/</link>
+				<guid isPermaLink="true">http://example.org/work/posts/2015-07-05-tagattitude/</guid>
+			</item>
+		
+			<item>
 				<title>Japanese Chefs in Paris</title>
 				<description>&lt;p&gt;A few weeks ago I had the chance to eat at a little restaurant in Paris call Le Sot L’y Laisse.  We later learned on the way home that Le Sot L’y Laisse is a small piece of dark meat located on the back, and considered the best part of the chicken.  Cool.  Anyways, the restaurant serves French food, and is run by a Japanese chef.  I had fois gras and fish.  Each was perfectly prepared, and aranged on the plate like a piece of art.  Oh and also the absolute best tasting food I have ever eaten.  Both dishes were French, but as you might expect, had a lot of Japanese influence.  This was the second time I’ve gone to a French restaurant here run by a Japanese chef.  I thought it was pretty interesting because it’s not often you see Japanese chefs cooking non-japanese food in Paris.  Or so I thought.&lt;/p&gt;
 
@@ -171,46 +205,6 @@ Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http:
 				<pubDate>Sun, 22 Mar 2015 00:00:00 +0100</pubDate>
 				<link>http://example.org/writing/posts/DD/</link>
 				<guid isPermaLink="true">http://example.org/writing/posts/DD/</guid>
-			</item>
-		
-			<item>
-				<title>Global Research and Advocacy Group</title>
-				<description>&lt;p&gt;Global Research and Advocacy Group (GRAG) is an NGO based in Dakar, Senegal that conducts quality research on various issues including reproductive health, family planning, education, and gender related norms. GRAG’s team comes from all around the world, and works to improve program initiatives.&lt;/p&gt;
-
-&lt;h2 id=&quot;things-i-did&quot;&gt;Things I did&lt;/h2&gt;
-
-&lt;p&gt;Translate research and analysis from French to English and vice versa.&lt;/p&gt;
-
-&lt;p&gt;Prepared presentations for the government of Ghana and Burkina Faso in both French and English.&lt;/p&gt;
-
-&lt;p&gt;Helped write and edit grant proposals to several funds, including the Helwett Foundation, and MEASURE Small Grant.&lt;/p&gt;
-
-&lt;p&gt;Helped prepare materials for conferences.&lt;/p&gt;
-
-&lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
-
-&lt;p&gt;January 2015 - April 2015&lt;/p&gt;
-</description>
-				<pubDate>Thu, 15 Jan 2015 00:00:00 +0100</pubDate>
-				<link>http://example.org/work/posts/GRAG/</link>
-				<guid isPermaLink="true">http://example.org/work/posts/GRAG/</guid>
-			</item>
-		
-			<item>
-				<title>Rubicon International</title>
-				<description>&lt;p&gt;Rubicon is an education consulting company based in Portland, OR. They write curriculum mapping software to help teachers and administrators collaborate, share curriculum, and keep track of everchanging standards.&lt;/p&gt;
-
-&lt;h2 id=&quot;things-i-did&quot;&gt;Things I did&lt;/h2&gt;
-
-&lt;p&gt;Researched and developed content marketing strategy to help increase traffic to the professional development site. The strategy helped double page views, and is being used to help chnage the image of the company.&lt;/p&gt;
-
-&lt;p&gt;Prepared and gave a marketing demo to senior members of the company, simulating an on-site demonstration of the company software.&lt;/p&gt;
-
-&lt;p&gt;Worked on the deployment team to help prepare and maintain client sites. This included growing and maintaining a database of over 1,200 sets of national, state, and international education standards.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 15 May 2014 00:00:00 +0200</pubDate>
-				<link>http://example.org/work/posts/Rubicon/</link>
-				<guid isPermaLink="true">http://example.org/work/posts/Rubicon/</guid>
 			</item>
 		
 	</channel>
