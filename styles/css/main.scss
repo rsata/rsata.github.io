@@ -123,16 +123,18 @@ iframe, object, embed {
   border: solid 7px $maps-primary
 }
 
+img.food {
+  width: 200px;
+}
+
+
 img.round {
   width:200px;
   height: 200px;
   border-radius: 100%;
-  border: solid 7px $maps-primary
+  border: solid 7px $maps-primary;
 }
 
-img.food {
-  width: 200px;
-}
 
 .red {
   color: $link-color;
