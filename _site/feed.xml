@@ -7,6 +7,19 @@
 		<atom:link href="http://example.org/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>All Roads Lead to Rome</title>
+				<description>&lt;p&gt;My time abroad came to an abrupt halt a couple weeks ago.  But not before I snuck one last excellent long weekend trip in, this time to Rome.&lt;/p&gt;
+
+&lt;p&gt;It’s not very often that Italy wins at things, but in this case, the capitol kicks the world’s ass at the highest number of super famous monuments per square foot.  Literally saw like 5 things out of my high school textbooks just in the 20 minute walk from the train station.&lt;/p&gt;
+
+&lt;p&gt;Anyways, without further ado, here are some pictures: &lt;a href=&quot;https://goo.gl/photos/UFj2vLfWk2zPwQU19&quot;&gt;https://goo.gl/photos/UFj2vLfWk2zPwQU19&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Sat, 25 Jul 2015 00:00:00 -0700</pubDate>
+				<link>http://example.org/blog/posts/rome/</link>
+				<guid isPermaLink="true">http://example.org/blog/posts/rome/</guid>
+			</item>
+		
+			<item>
 				<title>A Long Weekend in the Middle of Nowhere</title>
 				<description>&lt;p&gt;Last weekend it was Bastille day in France. More or less the equivalent to 4th of July for us, but with more wine and less beer. Bastille Day represents the symbolic beginning of the French Revolution, when an angry mob raided the fortress in 1789 for gunpowder, weapons, and ammunition. In the next 15 years, France got a number of things, including but not limited to their national anthem - “la Marseillaise” - the guillotine, a constitution, and the Reign of Terror.&lt;/p&gt;
 
@@ -21,6 +34,19 @@
 				<pubDate>Sat, 18 Jul 2015 00:00:00 -0700</pubDate>
 				<link>http://example.org/blog/posts/french-countryside/</link>
 				<guid isPermaLink="true">http://example.org/blog/posts/french-countryside/</guid>
+			</item>
+		
+			<item>
+				<title>Tagattitude</title>
+				<description>&lt;p&gt;Tagattitude is French a fintech company specializing in mobile financial service platforms. I was a marketing intern, mainly focused on developing content, maintaining the website, and doing market research.&lt;/p&gt;
+
+&lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
+
+&lt;p&gt;April 2015 - July 2015&lt;/p&gt;
+</description>
+				<pubDate>Sun, 05 Jul 2015 00:00:00 -0700</pubDate>
+				<link>http://example.org/work/posts/tagattitude/</link>
+				<guid isPermaLink="true">http://example.org/work/posts/tagattitude/</guid>
 			</item>
 		
 			<item>
@@ -179,38 +205,6 @@ Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http:
 				<pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
 				<link>http://example.org/blog/posts/2-weeks-in-the-western-world/</link>
 				<guid isPermaLink="true">http://example.org/blog/posts/2-weeks-in-the-western-world/</guid>
-			</item>
-		
-			<item>
-				<title>Dinah Dodds Endowment Fund Grant Request</title>
-				<description>&lt;p&gt;This is the grant request submitted to the Dinah Dodds Endowment Fund. It received the maximum grant amount of $2,000, and the project is currently underway. The money is going to fund research on sustainable oyster farming and mangrove protection in Sokone, Senegal. The funds will also help develop these practices in the area, providing equipment to increase sustainable methods of oyster farming.&lt;/p&gt;
-</description>
-				<pubDate>Sun, 22 Mar 2015 00:00:00 -0700</pubDate>
-				<link>http://example.org/writing/posts/DD/</link>
-				<guid isPermaLink="true">http://example.org/writing/posts/DD/</guid>
-			</item>
-		
-			<item>
-				<title>Global Research and Advocacy Group</title>
-				<description>&lt;p&gt;Global Research and Advocacy Group (GRAG) is an NGO based in Dakar, Senegal that conducts quality research on various issues including reproductive health, family planning, education, and gender related norms. GRAG’s team comes from all around the world, and works to improve program initiatives.&lt;/p&gt;
-
-&lt;h2 id=&quot;things-i-did&quot;&gt;Things I did&lt;/h2&gt;
-
-&lt;p&gt;Translate research and analysis from French to English and vice versa.&lt;/p&gt;
-
-&lt;p&gt;Prepared presentations for the government of Ghana and Burkina Faso in both French and English.&lt;/p&gt;
-
-&lt;p&gt;Helped write and edit grant proposals to several funds, including the Helwett Foundation, and MEASURE Small Grant.&lt;/p&gt;
-
-&lt;p&gt;Helped prepare materials for conferences.&lt;/p&gt;
-
-&lt;h2 id=&quot;dates&quot;&gt;Dates&lt;/h2&gt;
-
-&lt;p&gt;January 2015 - April 2015&lt;/p&gt;
-</description>
-				<pubDate>Thu, 15 Jan 2015 00:00:00 -0800</pubDate>
-				<link>http://example.org/work/posts/GRAG/</link>
-				<guid isPermaLink="true">http://example.org/work/posts/GRAG/</guid>
 			</item>
 		
 	</channel>
