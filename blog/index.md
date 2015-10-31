@@ -3,7 +3,9 @@ layout: default
 title: Blog
 ---
 
-#### A place where I'll write every now and then about projects, travels and other things that cross my mind.
+### A place where I'll write every now and then about projects, travels and other things that cross my mind.
+
+#### I was in Senegal last semester: [http://reidsata.blogspot.com/](http://reidsata.blogspot.com/)
 
 <div>
 {% for post in site.categories.blog %}

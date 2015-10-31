@@ -14,8 +14,9 @@ title: Work
 	{% else %}
 		<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	{% endif %}
+  <h4 class="red">{{ post.location }}</h4>
 
-	<p>{{ post.content | strip_html | truncatewords:30 }}</p>
+	<p>{{ post.content }}</p>
 
 {% endfor %}
 
