@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Reid Sata</title>
-		<description>Some writing among other things.</description>
-		<link>http://example.org</link>
-		<atom:link href="http://example.org/feed.xml" rel="self" type="application/rss+xml" />
+		<description>Digital marketer, entrepreneur, student, i like turtles</description>
+		<link>http://rsata.com</link>
+		<atom:link href="http://rsata.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>All Roads Lead to Rome</title>
@@ -15,8 +15,8 @@
 &lt;p&gt;Anyways, without further ado, here are some pictures: &lt;a href=&quot;https://goo.gl/photos/UFj2vLfWk2zPwQU19&quot;&gt;https://goo.gl/photos/UFj2vLfWk2zPwQU19&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Sat, 25 Jul 2015 00:00:00 -0700</pubDate>
-				<link>http://example.org/blog/posts/rome/</link>
-				<guid isPermaLink="true">http://example.org/blog/posts/rome/</guid>
+				<link>http://rsata.com/blog/posts/rome/</link>
+				<guid isPermaLink="true">http://rsata.com/blog/posts/rome/</guid>
 			</item>
 		
 			<item>
@@ -32,8 +32,8 @@
 &lt;p&gt;With school work and other projects and things (like finding a job…… ugh.), it’s easy to fall into the trap of never being able to take a breath. There’s always something to do, and it’s always urgent. But being here has made me realize it’s really not urgent. So stop, smell the roses, and enjoy your fucking life.&lt;/p&gt;
 </description>
 				<pubDate>Sat, 18 Jul 2015 00:00:00 -0700</pubDate>
-				<link>http://example.org/blog/posts/french-countryside/</link>
-				<guid isPermaLink="true">http://example.org/blog/posts/french-countryside/</guid>
+				<link>http://rsata.com/blog/posts/french-countryside/</link>
+				<guid isPermaLink="true">http://rsata.com/blog/posts/french-countryside/</guid>
 			</item>
 		
 			<item>
@@ -45,8 +45,8 @@
 &lt;p&gt;April 2015 - July 2015&lt;/p&gt;
 </description>
 				<pubDate>Sun, 05 Jul 2015 00:00:00 -0700</pubDate>
-				<link>http://example.org/work/posts/tagattitude/</link>
-				<guid isPermaLink="true">http://example.org/work/posts/tagattitude/</guid>
+				<link>http://rsata.com/work/posts/tagattitude/</link>
+				<guid isPermaLink="true">http://rsata.com/work/posts/tagattitude/</guid>
 			</item>
 		
 			<item>
@@ -69,8 +69,8 @@
 &lt;img src=&quot;/images/oka-dessert.jpg&quot; alt=&quot;OKA dessert&quot; class=&quot;food&quot; /&gt;&lt;/p&gt;
 </description>
 				<pubDate>Fri, 03 Jul 2015 00:00:00 -0700</pubDate>
-				<link>http://example.org/blog/posts/japenese-influence-in-parisian-food/</link>
-				<guid isPermaLink="true">http://example.org/blog/posts/japenese-influence-in-parisian-food/</guid>
+				<link>http://rsata.com/blog/posts/japenese-influence-in-parisian-food/</link>
+				<guid isPermaLink="true">http://rsata.com/blog/posts/japenese-influence-in-parisian-food/</guid>
 			</item>
 		
 			<item>
@@ -89,8 +89,8 @@
 Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http://simple-contacts-manager.meteor.com/&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Sat, 27 Jun 2015 00:00:00 -0700</pubDate>
-				<link>http://example.org/blog/posts/contacts-meteor-fun/</link>
-				<guid isPermaLink="true">http://example.org/blog/posts/contacts-meteor-fun/</guid>
+				<link>http://rsata.com/blog/posts/contacts-meteor-fun/</link>
+				<guid isPermaLink="true">http://rsata.com/blog/posts/contacts-meteor-fun/</guid>
 			</item>
 		
 			<item>
@@ -129,8 +129,8 @@ Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http:
 &lt;/ul&gt;
 </description>
 				<pubDate>Sat, 13 Jun 2015 00:00:00 -0700</pubDate>
-				<link>http://example.org/blog/posts/potential-for-mobile-money/</link>
-				<guid isPermaLink="true">http://example.org/blog/posts/potential-for-mobile-money/</guid>
+				<link>http://rsata.com/blog/posts/potential-for-mobile-money/</link>
+				<guid isPermaLink="true">http://rsata.com/blog/posts/potential-for-mobile-money/</guid>
 			</item>
 		
 			<item>
@@ -144,8 +144,8 @@ Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http:
 &lt;p&gt;Big picture, Konza City speaks to the immense amount of innovation happening in Africa.  The most transformative new technology is born out of necessity.  A new way to turn on a lightbulb isn’t quite what you’d call necessity.  Providing financial services to billions of people using “dumb” phones they already own, is.  And it’s innovations like this that are happening in Africa today.  &lt;a href=&quot;https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that?language=en&quot;&gt;This Ted Talk&lt;/a&gt; sums it up pretty well.  Real innovation is happening in Africa because Africa is solving real problems.&lt;/p&gt;
 </description>
 				<pubDate>Sat, 23 May 2015 00:00:00 -0700</pubDate>
-				<link>http://example.org/blog/posts/konzacity/</link>
-				<guid isPermaLink="true">http://example.org/blog/posts/konzacity/</guid>
+				<link>http://rsata.com/blog/posts/konzacity/</link>
+				<guid isPermaLink="true">http://rsata.com/blog/posts/konzacity/</guid>
 			</item>
 		
 			<item>
@@ -161,8 +161,8 @@ Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http:
 &lt;p&gt;Anyways, my weekend in Amsterdam was awesome and I want to go back.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 18 May 2015 00:00:00 -0700</pubDate>
-				<link>http://example.org/blog/posts/Amsterdam/</link>
-				<guid isPermaLink="true">http://example.org/blog/posts/Amsterdam/</guid>
+				<link>http://rsata.com/blog/posts/Amsterdam/</link>
+				<guid isPermaLink="true">http://rsata.com/blog/posts/Amsterdam/</guid>
 			</item>
 		
 			<item>
@@ -180,8 +180,8 @@ Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http:
 &lt;p&gt;From the little experience I have, I’ve learned that for me, one of the most important things when choosing a company is to find one that is doing something worth caring about.  That is definitely the case here at Tagattitude and I’m glad to be a part of it.&lt;/p&gt;
 </description>
 				<pubDate>Tue, 12 May 2015 00:00:00 -0700</pubDate>
-				<link>http://example.org/blog/posts/what-im-doing-here/</link>
-				<guid isPermaLink="true">http://example.org/blog/posts/what-im-doing-here/</guid>
+				<link>http://rsata.com/blog/posts/what-im-doing-here/</link>
+				<guid isPermaLink="true">http://rsata.com/blog/posts/what-im-doing-here/</guid>
 			</item>
 		
 			<item>
@@ -203,8 +203,8 @@ Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http:
 &lt;p&gt;I decided not to import my senegal blog over to this one.  If you’re interested, the whole things over at &lt;a href=&quot;http://reidsata.blogspot.com/&quot;&gt;rsata.blogspot.com&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
-				<link>http://example.org/blog/posts/2-weeks-in-the-western-world/</link>
-				<guid isPermaLink="true">http://example.org/blog/posts/2-weeks-in-the-western-world/</guid>
+				<link>http://rsata.com/blog/posts/2-weeks-in-the-western-world/</link>
+				<guid isPermaLink="true">http://rsata.com/blog/posts/2-weeks-in-the-western-world/</guid>
 			</item>
 		
 	</channel>
