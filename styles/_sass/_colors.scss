@@ -1,3 +1,5 @@
+$red: #db6356;
+
 $body-color: #fff;
 $banner-color: #5d9da2;
 $link-color: #db6356;
@@ -5,19 +7,19 @@ $writing-color: #000;
 
 $body-primary: $body-color;
 
-$link-primary: $link-color;
-$link-hover: $banner-color;
+$link-primary: #555;
+$link-hover: $link-color;
 
-$nav-primary: $banner-color;
+$nav-primary: #555;
 $nav-background: $body-color;
-$nav-hover: $banner-color;
-$nav-active: $banner-color;
+$nav-hover: #aaa;
+$nav-active: #555;
 $nav-hover-text: #fff;
-$nav-line: $banner-color;
+$nav-line: #555;
 
 $p-primary: $writing-color;
 
-$header-primary: $banner-color;
+$header-primary: $red;
 
 $banner-primary: #fff;
 $banner-secondary: #fff;
@@ -25,6 +27,9 @@ $banner-background: $banner-color;
 $banner-border: $link-color;
 
 $maps-primary: $link-hover;
+
+
+
 
 
 // Color palettes 

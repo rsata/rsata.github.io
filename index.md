@@ -1,26 +1,25 @@
 ---
-layout: default
-title: Blog
+layout: custom
+title: Home
 ---
 
-### A place where I'll write every now and then about projects, travels and other things that cross my mind.
-
-#### I was in Senegal last semester: [http://reidsata.blogspot.com/](http://reidsata.blogspot.com/)
-
-<div>
-{% for post in site.categories.blog %}
-  {% if post.external-url %}
-    <h2>
-      <a href="{{ post.external-url }}">{{ post.title }}</a> 
-    </h2>
-  {% else %}
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p class="blog-date">{{ post.date | date_to_string }}</p>
-  {% endif %}
-<p>{{ post.content | strip_html | truncatewords:50 }}</p>
-
-{% endfor %}
-  
-
-
+<div class="coverPage">
+  <div class="row">
+    <div class="col-sm-6">
+      <div id="triangles"></div>
+    </div>
+    <div class="container-fluid">
+      <div class="col-sm-5 buffer3">
+        <h1>Reid Sata</h1>
+        <h3>Digital marketer with a passion for entrepreneurship, data, and learning.</h3>
+        <ul class="coverList buffer2">
+          <a href="/blog"><li><div class="inside">Blog</div></li></a>
+          <a href="/writing"><li><div class="inside">Writing Samples</div></li></a>
+          <a href="/work"><li><div class="inside">Work</div></li></a>
+          <a href="/about"><li><div class="inside">Contact</div></li></a>
+          <a href="/resume"><li><div class="inside">Resume</div></li></a>
+        </ul>
+      </div>
+    </div>    
+  </div>
 </div>

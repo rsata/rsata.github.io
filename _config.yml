@@ -1,9 +1,8 @@
 name: Reid Sata
-url: http://example.org
-description: Some writing among other things.
+url: http://rsata.com
 
 permalink: :categories/posts/:title/
-paginate: 10
+#paginate: 10
 highlighter: pygments
 
 sass:
