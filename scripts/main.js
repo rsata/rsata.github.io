@@ -1,7 +1,8 @@
-var width = $('#triangles').width();
+var width = window.innerWidth/2;
 var height = window.innerHeight;
 
 if (window.innerWidth<768) {
+  width = window.innerWidth;
   height = height/2;
 }
 
