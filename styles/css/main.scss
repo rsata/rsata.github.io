@@ -144,6 +144,19 @@ img.rome {
   color: $link-color;
 }
 
+@media (min-width: 768px) {
+  .ml {
+    margin-left: 30px;
+  }
+}
+
+.page-title {
+  border-bottom: solid 2px $red;
+}
+
+.page-title-inner {
+  margin: 0 0 15px 0;
+}
 
 /* =========================== 
 

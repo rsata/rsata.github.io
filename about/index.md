@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-## Hello. 
+<h2 class="page-title"><div class="page-title-inner">Hello.</div></h2>
 
 <img src="../images/RS.JPG" class="round pull-right" /> I'm currently a senior Political Science and French major at Lewis &amp; Clark College.  I just finished a semester abroad in Senegal learning French, Wolof, and about life in Sub-Saharan Africa.  Now I'm in Paris for the summer doing marketing at <a href="http://tagpay.fr">Tagattitude</a> and trying not to think too much about the fact that college is almost over.
 
