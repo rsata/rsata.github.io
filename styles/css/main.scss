@@ -287,11 +287,12 @@ Soundboard
 }
 
 li.voice {
-  display: inline;
+  display: block;
   text-decoration: none;
   padding: 40px;
   border: solid 2px white;
   margin: 20px;
+  width: 50%;
 }
 
 
