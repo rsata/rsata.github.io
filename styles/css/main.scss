@@ -276,6 +276,30 @@ li a {
 
 /* =========================== 
 
+Soundboard
+
+=========================== */
+
+
+.custom-voice-wrapper {
+  background-color: red;
+  height: 100%;
+}
+
+li.voice {
+  display: inline;
+  text-decoration: none;
+  padding: 40px;
+  border: solid 2px white;
+  margin: 20px;
+}
+
+
+
+
+
+/* =========================== 
+
 Helpers
 
 =========================== */
