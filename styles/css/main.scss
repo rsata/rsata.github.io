@@ -283,16 +283,23 @@ Soundboard
 
 .custom-voice-wrapper {
   background-color: red;
-  height: 100%;
 }
 
 li.voice { 
-  display: block;
+  display: inline-block;
   text-decoration: none;
-  padding: 40px;
+  padding: 50px 5% 50px 5%;
   border: solid 2px white;
-  margin: 20px;
-  width: 50%;
+  width: 45%;
+  margin: 10px 2.5%;
+}
+
+// li.voice:nth-child(even) {margin: 10px 0px 10px 10%;}
+// li.voice:nth-child(odd) {margin: 10px 10% 10px 0px;}
+
+li.active {
+  background-color: white;
+  color: red;
 }
 
 
