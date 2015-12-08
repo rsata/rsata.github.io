@@ -78,10 +78,10 @@ $(document).ready(function() {
     //   path: "../audio/ma.m4a"
     // },
 
-    {
-      expression: "Morning",
-      path: "../audio/morning.m4a"
-    },
+    // {
+    //   expression: "Morning",
+    //   path: "../audio/morning.m4a"
+    // },
 
     {
       expression: "No",
