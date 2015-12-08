@@ -53,30 +53,30 @@ $(document).ready(function() {
       path: "../audio/gotta_work.m4a"
     },
 
-    {
-      expression: "Hannah",
-      path: "../audio/hannah.m4a"
-    },
+    // {
+    //   expression: "Hannah",
+    //   path: "../audio/hannah.m4a"
+    // },
 
-    {
-      expression: "Hannukah",
-      path: "../audio/hannukah.m4a"
-    },
+    // {
+    //   expression: "Hannukah",
+    //   path: "../audio/hannukah.m4a"
+    // },
 
-    {
-      expression: "Snail",
-      path: "../audio/hi_snail.m4a"
-    },
+    // {
+    //   expression: "Snail",
+    //   path: "../audio/hi_snail.m4a"
+    // },
 
     {
       expression: "Hmpf",
       path: "../audio/hmpf.m4a"
     },
 
-    {
-      expression: "Ma",
-      path: "../audio/ma.m4a"
-    },
+    // {
+    //   expression: "Ma",
+    //   path: "../audio/ma.m4a"
+    // },
 
     {
       expression: "Morning",
