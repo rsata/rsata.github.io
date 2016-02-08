@@ -21,8 +21,24 @@ var pattern = Trianglify({
 document.getElementById('triangles').appendChild(pattern.svg());
 
 $(window).load(function() {
-  $('.circle-item').addClass('animated fadeInRight');
+  $('.home-headers').removeClass('hide').addClass('animated fadeInDown');
+  $('.circle-item').removeClass('hide').addClass('animated fadeInRight');
 });
+
+$('.circle-link').on('click', function(e) {
+  
+  e.preventDefault();
+
+  var goTo = this.getAttribute("href");
+
+  $(this).siblings().children().addClass('animated fadeOut');
+  $(this).children().addClass('animated zoomOutDown');
+  $('.home-headers').addClass('animated zoomOutUp');
+  setTimeout(function(){
+         window.location = goTo;
+    },1000);
+});
+
 
 });
 
