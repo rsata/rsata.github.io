@@ -21,6 +21,7 @@ var pattern = Trianglify({
 document.getElementById('triangles').appendChild(pattern.svg());
 
 $(window).load(function() {
+  $('.home-headers').addClass('animated fadeIn');
   $('.circle-item').addClass('animated fadeInRight');
 });
 

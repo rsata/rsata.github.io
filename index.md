@@ -11,8 +11,10 @@ title: Home
         <div id="triangles"></div>
       </div>
       <div class="home-text col-sm-6 buffer3">
-        <h1>Reid Sata</h1>
-        <h3>Digital marketer with a passion for categories, entrepreneurship, and tech.</h3>
+        <div class="home-headers">
+          <h1>Reid Sata</h1>
+          <h3>Digital marketer with a passion for categories, entrepreneurship, and tech.</h3>
+        </div>
         <ul class="coverList buffer2">
           <a href="/blog">
             <li class="circle-item">
