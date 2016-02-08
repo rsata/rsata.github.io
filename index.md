@@ -11,9 +11,13 @@ title: Home
         <div id="triangles"></div>
       </div>
       <div class="home-text col-sm-6 buffer3">
-        <div class="home-headers hide">
+        <div class="header home-headers hide">
           <h1>Reid Sata</h1>
           <h3>Digital marketer with a passion for categories, entrepreneurship, and tech.</h3>
+          <h5>> Marketing at <a href="http://en.tagpay.fr">Tagattitude</a>, <a href="http://pd.rubicon.com">Rubicon</a>, and <a href="http://tensoft.com">Tensoft</a>.</h5>
+          <h5>> Experience with international markets in France, Senegal and other French speaking countries.</h5>
+          <h5>> Head of the Entrepreneurship Club at Lewis &amp; Clark College.</h5>
+          <h5>> I do <a href="http://github.com/rsata">front end development</a> in my freetime.</h5>
         </div>
         <ul class="coverList buffer2">
           <a class="circle-link" href="/blog">

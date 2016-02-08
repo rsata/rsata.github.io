@@ -162,15 +162,18 @@ HEADER
 
 
 .header {
-	h1 {
+	h1, h2, h3 {
 		color: white;
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
   }
-  h3 {
+  h4, h5, h6 {
     color: white;
     font-family: 'Roboto', sans-serif;
-    font-weight: 100;
+    font-weight: 300;
+  }
+  a {
+    color:$red;
   }
 }
 
