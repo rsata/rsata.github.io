@@ -5,6 +5,6 @@ title: Resume
 
 <div>
   <div class="text-center">
-    <h1><a href="../images/ReidSataResume.pdf">View Resume</a></h1>
+    <iframe class="resume" src="../images/ReidSataResume.pdf" frameborder="0"></iframe>
   </div>
 </div>
