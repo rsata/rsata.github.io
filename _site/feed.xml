@@ -3,16 +3,16 @@
 	<channel>
 		<title>Reid Sata</title>
 		<description></description>
-		<link>http://rsata.com</link>
-		<atom:link href="http://rsata.com/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://127.0.0.1:4000</link>
+		<atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Project: Networker</title>
 				<description>&lt;p&gt;Check it out at &lt;a href=&quot;https://github.com/rsata/networker&quot;&gt;https://github.com/rsata/networker&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Fri, 05 Feb 2016 00:00:00 -0800</pubDate>
-				<link>http://rsata.com/blog/posts/networker/</link>
-				<guid isPermaLink="true">http://rsata.com/blog/posts/networker/</guid>
+				<link>http://127.0.0.1:4000/blog/posts/networker/</link>
+				<guid isPermaLink="true">http://127.0.0.1:4000/blog/posts/networker/</guid>
 			</item>
 		
 			<item>
@@ -20,8 +20,8 @@
 				<description>&lt;p&gt;For Tech of the Future class.  Check it out at &lt;a href=&quot;https://github.com/rsata/lc-safe-rides&quot;&gt;https://github.com/rsata/lc-safe-rides&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Fri, 22 Jan 2016 00:00:00 -0800</pubDate>
-				<link>http://rsata.com/blog/posts/safe-rides/</link>
-				<guid isPermaLink="true">http://rsata.com/blog/posts/safe-rides/</guid>
+				<link>http://127.0.0.1:4000/blog/posts/safe-rides/</link>
+				<guid isPermaLink="true">http://127.0.0.1:4000/blog/posts/safe-rides/</guid>
 			</item>
 		
 			<item>
@@ -29,8 +29,8 @@
 				<description>&lt;p&gt;Check it out at &lt;a href=&quot;https://github.com/rsata/pods&quot;&gt;https://github.com/rsata/pods&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Sun, 10 Jan 2016 00:00:00 -0800</pubDate>
-				<link>http://rsata.com/blog/posts/pods/</link>
-				<guid isPermaLink="true">http://rsata.com/blog/posts/pods/</guid>
+				<link>http://127.0.0.1:4000/blog/posts/pods/</link>
+				<guid isPermaLink="true">http://127.0.0.1:4000/blog/posts/pods/</guid>
 			</item>
 		
 			<item>
@@ -42,8 +42,8 @@
 &lt;p&gt;Anyways, without further ado, here are some pictures: &lt;a href=&quot;https://goo.gl/photos/UFj2vLfWk2zPwQU19&quot;&gt;https://goo.gl/photos/UFj2vLfWk2zPwQU19&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Sat, 25 Jul 2015 00:00:00 -0700</pubDate>
-				<link>http://rsata.com/blog/posts/rome/</link>
-				<guid isPermaLink="true">http://rsata.com/blog/posts/rome/</guid>
+				<link>http://127.0.0.1:4000/blog/posts/rome/</link>
+				<guid isPermaLink="true">http://127.0.0.1:4000/blog/posts/rome/</guid>
 			</item>
 		
 			<item>
@@ -59,8 +59,8 @@
 &lt;p&gt;With school work and other projects and things (like finding a job…… ugh.), it’s easy to fall into the trap of never being able to take a breath. There’s always something to do, and it’s always urgent. But being here has made me realize it’s really not urgent. So stop, smell the roses, and enjoy your fucking life.&lt;/p&gt;
 </description>
 				<pubDate>Sat, 18 Jul 2015 00:00:00 -0700</pubDate>
-				<link>http://rsata.com/blog/posts/french-countryside/</link>
-				<guid isPermaLink="true">http://rsata.com/blog/posts/french-countryside/</guid>
+				<link>http://127.0.0.1:4000/blog/posts/french-countryside/</link>
+				<guid isPermaLink="true">http://127.0.0.1:4000/blog/posts/french-countryside/</guid>
 			</item>
 		
 			<item>
@@ -72,8 +72,8 @@
 &lt;p&gt;April 2015 - July 2015&lt;/p&gt;
 </description>
 				<pubDate>Sun, 05 Jul 2015 00:00:00 -0700</pubDate>
-				<link>http://rsata.com/work/posts/tagattitude/</link>
-				<guid isPermaLink="true">http://rsata.com/work/posts/tagattitude/</guid>
+				<link>http://127.0.0.1:4000/work/posts/tagattitude/</link>
+				<guid isPermaLink="true">http://127.0.0.1:4000/work/posts/tagattitude/</guid>
 			</item>
 		
 			<item>
@@ -96,8 +96,8 @@
 &lt;img src=&quot;/images/oka-dessert.jpg&quot; alt=&quot;OKA dessert&quot; class=&quot;food&quot; /&gt;&lt;/p&gt;
 </description>
 				<pubDate>Fri, 03 Jul 2015 00:00:00 -0700</pubDate>
-				<link>http://rsata.com/blog/posts/japenese-influence-in-parisian-food/</link>
-				<guid isPermaLink="true">http://rsata.com/blog/posts/japenese-influence-in-parisian-food/</guid>
+				<link>http://127.0.0.1:4000/blog/posts/japenese-influence-in-parisian-food/</link>
+				<guid isPermaLink="true">http://127.0.0.1:4000/blog/posts/japenese-influence-in-parisian-food/</guid>
 			</item>
 		
 			<item>
@@ -116,8 +116,8 @@
 Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http://simple-contacts-manager.meteor.com/&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Sat, 27 Jun 2015 00:00:00 -0700</pubDate>
-				<link>http://rsata.com/blog/posts/contacts-meteor-fun/</link>
-				<guid isPermaLink="true">http://rsata.com/blog/posts/contacts-meteor-fun/</guid>
+				<link>http://127.0.0.1:4000/blog/posts/contacts-meteor-fun/</link>
+				<guid isPermaLink="true">http://127.0.0.1:4000/blog/posts/contacts-meteor-fun/</guid>
 			</item>
 		
 			<item>
@@ -156,8 +156,8 @@ Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http:
 &lt;/ul&gt;
 </description>
 				<pubDate>Sat, 13 Jun 2015 00:00:00 -0700</pubDate>
-				<link>http://rsata.com/blog/posts/potential-for-mobile-money/</link>
-				<guid isPermaLink="true">http://rsata.com/blog/posts/potential-for-mobile-money/</guid>
+				<link>http://127.0.0.1:4000/blog/posts/potential-for-mobile-money/</link>
+				<guid isPermaLink="true">http://127.0.0.1:4000/blog/posts/potential-for-mobile-money/</guid>
 			</item>
 		
 			<item>
@@ -171,8 +171,8 @@ Demo: &lt;a href=&quot;http://simple-contacts-manager.meteor.com/&quot;&gt;http:
 &lt;p&gt;Big picture, Konza City speaks to the immense amount of innovation happening in Africa.  The most transformative new technology is born out of necessity.  A new way to turn on a lightbulb isn’t quite what you’d call necessity.  Providing financial services to billions of people using “dumb” phones they already own, is.  And it’s innovations like this that are happening in Africa today.  &lt;a href=&quot;https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that?language=en&quot;&gt;This Ted Talk&lt;/a&gt; sums it up pretty well.  Real innovation is happening in Africa because Africa is solving real problems.&lt;/p&gt;
 </description>
 				<pubDate>Sat, 23 May 2015 00:00:00 -0700</pubDate>
-				<link>http://rsata.com/blog/posts/konzacity/</link>
-				<guid isPermaLink="true">http://rsata.com/blog/posts/konzacity/</guid>
+				<link>http://127.0.0.1:4000/blog/posts/konzacity/</link>
+				<guid isPermaLink="true">http://127.0.0.1:4000/blog/posts/konzacity/</guid>
 			</item>
 		
 	</channel>
