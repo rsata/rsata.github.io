@@ -1,0 +1,59 @@
+<a name="experience"><h3 class="section-title">Experience</h3></a>
+<dl class="experience">
+    {% for job in site.data.jobs %}
+        <dt>
+            <p class="title">{{ job.title }}</p>
+            <p class="company"><a href="{{ job.url }}" class="social">{{ job.company }}</a></p>
+            <p class="location">{{ job.location }}</p>
+            <p class="period">{{ job.period }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ job.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
+<a name="coding"><h3 class="section-title">Coding<span class="coding-sub"><br>(Note: These are side/class projects)</span></h3></a>
+<dl class="experience">
+    {% for coding in site.data.coding %}
+        <dt>
+            <p class="title">{{ coding.project }}</p>
+            <p class="location">{{ coding.title }}</p>
+            <p class="company"><a href="{{ coding.url }}" class="social">{{ coding.link }}</a></p>
+            <p class="period">Technology used: {{ coding.technology }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ coding.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
+<a name="activities"><h3 class="section-title">Activities &amp; Accomplishments</h3></a>
+<dl class="experience">
+    {% for activities in site.data.activities %}
+        <dt>
+            <p class="title">{{ activities.project }}</p>
+            <p class="location">{{ activities.title }}</p>
+            <p class="company"><a href="{{ activities.url }}" class="social">{{ activities.link }}</a></p>
+            <p class="location">{{ activities.location }}</p>
+            <p class="period">{{ activities.period }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ activities.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
+<a name="education"><h3 class="section-title">Education</h3></a>
+<dl class="education">
+    {% for qualification in site.data.education %}
+        <dt>
+            <p class="title">{{ qualification.qualification }}</p>
+            <p class="company">{{ qualification.school }}</p>
+            <p class="period">{{ qualification.period }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ qualification.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
