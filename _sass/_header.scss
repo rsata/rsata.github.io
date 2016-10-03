@@ -40,7 +40,7 @@ header {
 }
 
 .menu {
-    border: solid 2px #aaa;
+    border: solid 2px #fff;
     padding: 20px;
     margin-bottom: 40px;
     @media(min-width: 640px) {
@@ -49,4 +49,25 @@ header {
     li {
         margin-top: 5px
     } 
+}
+
+header {
+    background-color: #56AFF2;
+    color: white;
+     @media(min-width: 640px) {
+        background-color: #3A4A57;
+    }
+}
+
+ul.menu li a {
+    color: white;
+    text-decoration: none;
+    transition: all linear .2s;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.social a {
+    color: white;
 }

@@ -101,7 +101,7 @@ header {
   margin-right: 20px; }
 
 .menu {
-  border: solid 2px #aaa;
+  border: solid 2px #fff;
   padding: 20px;
   margin-bottom: 40px; }
   @media (min-width: 640px) {
@@ -109,6 +109,23 @@ header {
       max-width: 60%; } }
   .menu li {
     margin-top: 5px; }
+
+header {
+  background-color: #56AFF2;
+  color: white; }
+  @media (min-width: 640px) {
+    header {
+      background-color: #3A4A57; } }
+
+ul.menu li a {
+  color: white;
+  text-decoration: none;
+  transition: all linear .2s; }
+  ul.menu li a:hover {
+    text-decoration: underline; }
+
+.social a {
+  color: white; }
 
 .footer {
   padding: 40px 20px;
@@ -145,11 +162,11 @@ dt, dd {
   font-weight: bold;
   font-size: 1.2rem; }
 
-a {
+p > a {
   color: black !important;
   background: rgba(245, 215, 110, 0.5);
   transition: all linear .2s; }
-  a:hover {
+  p > a:hover {
     background: #f5d76e;
     text-decoration: none; }
 
