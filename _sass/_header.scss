@@ -1,6 +1,9 @@
 // @name Header
 // @description All header styles
 
+$dark-blue: #3A4A57;
+$light-blue: #56AFF2;
+
 header {
     border-bottom: 1px solid #edefee;
     padding: ($spacer * 2) 0;
@@ -52,10 +55,10 @@ header {
 }
 
 header {
-    background-color: #56AFF2;
+    background-color: $light-blue;
     color: white;
      @media(min-width: 640px) {
-        background-color: #3A4A57;
+        background-color: $dark-blue;
     }
 }
 

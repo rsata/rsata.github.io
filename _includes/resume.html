@@ -20,10 +20,17 @@
             <p class="title">{{ coding.project }}</p>
             <p class="location">{{ coding.title }}</p>
             <p class="company"><a href="{{ coding.url }}" class="social">{{ coding.link }}</a></p>
-            <p class="period">Technology used: {{ coding.technology }}</p>
+            <p class="technologyUsed">Technology used: {{ coding.technology }}</p>            
         </dt><!--
         --><dd>
             <p>{{ coding.description }}</p>
+            <ul>
+                {% for i in coding.images %}
+                    <li class="projectImgList">
+                        <a href="{{ i }}" target='blank'><div class="imgContainer" style="background-image: url('{{ i }}')"></div></a>
+                    </li>
+                {% endfor %}
+            </ul>
         </dd>
     {% endfor %}
 </dl>

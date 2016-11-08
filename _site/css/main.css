@@ -131,8 +131,6 @@ ul.menu li a {
   .footer__title {
     font-size: 1.2rem;
     font-weight: bold; }
-  .footer__subtitle {
-    text-transform: capitalize; }
 
 dl {
   margin-bottom: 20px; }
@@ -170,5 +168,24 @@ p > a {
 .period {
   font-size: 0.75em; }
 
+.technologyUsed {
+  font-size: 0.75em;
+  background-color: #3A4A57;
+  color: #fff;
+  padding: 3px 2px 3px 5px;
+  border-radius: 3px; }
+
 .coding-sub {
   font-size: 0.75em; }
+
+.imgContainer {
+  border: 1px solid #ddd;
+  width: 100px;
+  height: 100px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px; }
+
+li.projectImgList {
+  display: inline-block; }

@@ -1,6 +1,31 @@
+-   project: Mahonia Land Trust Website
+    title: Front-End Developer
+    technology: Jekyll, Sass, Surge, Google Sheets (as CMS)
+    images: ['img/mltc/1.png']
+    description: >
+      - Simple website to support a local land trust.
+      <br>- Currently developing a CMS using Google Sheets.
+
+-   project: Searchable Templates
+    title: Full-Stack Developer
+    technology: Node, MySql, React
+    images: ['img/searchable-templates/1.png', 'img/searchable-templates/2.png', 'img/searchable-templates/3.png']
+    description: >
+      - Searchable tags to quickly find templates to use in client email responses.
+      <br>- Built this for support team to improve response times, help with onboarding, and raise consistency.
+
+-   project: Budgeting App
+    title: Full-Stack Developer
+    technology: React, Node, Plaid API
+    images: ['img/budget-app/1.png', 'img/budget-app/2.png']
+    description: >
+      - Automated my budget by tracking transactions with the Plaid API.
+      <br>- Developing dashboard to make it all look nice.
+
 -   project: Smart Mirror
     title: Front-End Developer
     technology: React, Node, Rasberry Pi
+    images: ['img/smart-mirror/1.png', 'img/smart-mirror/2.png']
     description: >
       - Built screen interface for the smart mirror.
       <br>- Worked with designer to build layout and components for the mirror.
@@ -8,13 +33,15 @@
 -   project: Phorward
     title: Front-End Developer
     technology: React, SocketIO, Twilio, Node
+    # images: ['']
     description: >
       - Built chat texting application for SEC compliant texting.
       <br>- Worked with client to develop prototype.
 
 -   project: Carma
     title: Full-Stack Developer
-    technology: Meteor
+    technology: Meteor, Blaze
+    images: ['img/carma/1.png']
     description: >
       - Led prototyping and development for a safe rides app in the Lewis & Clark Community.
       <br>- Worked with various on-campus groups to promote, finance, support and maintain the app.
@@ -22,5 +49,6 @@
 -   project: This website
     title: Front-End Developer
     technology: Jekyll, Sass, Github Pages
+    images: ['img/this-site/1.png', 'img/this-site/2.png', 'img/this-site/3.png', 'img/this-site/4.png']
     description: >
       - Personal website has undergone many a transformation.

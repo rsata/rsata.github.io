@@ -54,6 +54,28 @@ p > a {
     font-size: 0.75em;
 }
 
+.technologyUsed {
+    font-size: 0.75em;
+    background-color: $dark-blue;
+    color: #fff;
+    padding: 3px 2px 3px 5px;
+    border-radius: 3px;
+}
+
 .coding-sub {
     font-size: 0.75em;
+}
+
+.imgContainer {
+    border: 1px solid #ddd;
+    width: 100px;
+    height: 100px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 5px;
+}
+
+li.projectImgList {
+    display: inline-block;
 }
