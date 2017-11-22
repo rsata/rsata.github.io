@@ -1,3 +1,11 @@
+-   project: Smart Mirror
+    title: Front-End Developer
+    technology: React, Node, Rasberry Pi
+    images: ['img/smart-mirror/1.png', 'img/smart-mirror/2.png']
+    description: >
+      <br>- Built screen interface for the smart mirror.
+      <br>- Worked with designer to build layout and components for the mirror.
+
 -   project: Mahonia Land Trust Website
     title: Front-End Developer
     technology: Jekyll, Sass, Surge, Google Sheets (as CMS)
@@ -21,14 +29,6 @@
     description: >
       - Automated my budget by tracking transactions with the Plaid API.
       <br>- Developing dashboard to make it all look nice.
-
--   project: Smart Mirror
-    title: Front-End Developer
-    technology: React, Node, Rasberry Pi
-    images: ['img/smart-mirror/1.png', 'img/smart-mirror/2.png']
-    description: >
-      - Built screen interface for the smart mirror.
-      <br>- Worked with designer to build layout and components for the mirror.
 
 -   project: Phorward
     title: Front-End Developer
